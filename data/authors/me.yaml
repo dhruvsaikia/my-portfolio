@@ -1,0 +1,191 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Dhruv Saikia
+  given: Dhruv
+  family: Saikia
+postnominals: []
+status:
+  icon: ""  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
+role: Data | Software | Cybersecurity | Game Dev
+email: dss29@sfu.ca
+bio: |
+  Master's student at SFU specializing in Big Data.   
+  Background in Data Science, Cybersecurity, and Game Development.   
+  I like building big data pipelines that are secure and are user friendly.  
+
+affiliations:
+  - name: Simon Fraser Univeristy
+    url: https://www.sfu.ca/
+
+links:
+  - icon: at-symbol
+    url: mailto:dss29@sfu.ca
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/dhruvsaikia
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/dhruvsaikia/
+
+interests:
+  - Big Data Analytics
+  - Cybersecurity Operations
+  - Game Development
+  - Machine Learning
+
+education:
+  - degree: M.Sc. Professional Computer Science
+    institution: Simon Fraser University
+    start: 2025-09-01
+    end: 2027-05-01
+    summary: |
+      Specializing in Big Data.  
+      Second semester project including a 2 Petabyte dataset (GDELT Dataset)
+    button:
+      text: null
+      url: null
+      icon: null
+
+  - degree: PG Certificate in Cyber Security Operations
+    institution: York University
+    start: 2025-01-06
+    end: 2025-08-12
+    summary: |
+      Focused on security infrastructure and manual vulnerability assessment.  
+      Completed a comprehensive security audit for a live SaaS Client.
+    button:
+      text: null
+      url: null
+      icon: null
+
+  - degree: PG Certificate in Game Dev. - Advanced Programming
+    institution: Sheridan College
+    start: 2023-09-06
+    end: 2024-08-12
+    summary: |
+      Specialized in Game Development.  
+      Capstone project included Furlastic Duo - A co-op adventure.
+    button:
+      text: null
+      url: null
+      icon: null
+
+  - degree: B.Sc. in Game Development - Advanced Programming
+    institution: West Bengal University of Technology
+    start: 2019-06-10
+    end: 2022-07-12
+    summary: |
+      Undergraduate degree in Computer Science with a focus on Game & Mobile App. Development.  
+    button:
+      text: null
+      url: null
+      icon: null
+
+experience:
+  - role: Project Lead & Security Analyst
+    org: Zappy Compliance
+    start: 2025-06-05
+    end: 2025-08-12
+    summary: |
+      Led manual security assessments and compliance auditing.
+
+  - role: Lead Programmer
+    org: Peony Kitten Studios
+    start: 2024-05-06
+    end: 2024-08-15
+    summary: |
+      Lead developer for "Furlastic Duo".  
+
+
+skills:
+  - name: Programming Languages
+    items:
+      - label: Python
+        level: 4
+      - label: SQL
+        level: 4
+      - label: C#
+        level: 4
+      - label: C++
+        level: 3
+      - label: TypeScript
+        level: 3
+      - label: XML
+        level: 2
+      - label: JSON
+        level: 3
+
+  - name: Software Engineering
+    items:
+      - label: Object-Oriented Design (OOD)
+        level: 4
+      - label: Git
+        level: 4
+      - label: Unit Testing
+        level: 3
+      - label: SDLC / Cross-functional Collaboration
+        level: 4
+      - label: Technical Documentation
+        level: 3
+
+  - name: Data & Analytics
+    items:
+      - label: Data Analysis
+        level: 4
+      - label: Data Visualization (Tableau)
+        level: 3
+      - label: Data Visualization (Power BI)
+        level: 3
+      - label: Large-Scale Datasets (e.g., GDELT)
+        level: 3
+      - label: ETL / Data Pipelines
+        level: 3
+
+  - name: Security
+    items:
+      - label: Penetration Testing
+        level: 3
+      - label: Security Auditing / Compliance
+        level: 4
+      - label: Vulnerability Assessment
+        level: 3
+      - label: Risk Reporting / Recommendations
+        level: 3
+
+  - name: Game Development
+    items:
+      - label: Unity (C#)
+        level: 4
+      - label: Physics / Numerical Algorithms
+        level: 3
+      - label: Tooling for Designers (UI/Editor Tools)
+        level: 3
+
+  - name: DevOps
+    items:
+      - label: Docker
+        level: 3
+      - label: AWS
+        level: 2
+      - label: CI/CD
+        level: 3
+
+languages:
+  - name: English
+    level: 5
+    label: Native
+  - name: Hindi
+    level: 5
+    label: Native
+  - name: Bengali
+    level: 5
+    label: Native
+  - name: Assamese
+    level: 5
+    label: Native
+  - name: Nagamese
+    level: 5
+    label: Native
+
+awards: []
