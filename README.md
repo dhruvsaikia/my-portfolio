@@ -1,4 +1,4 @@
-# [Developer Portfolio](https://hugoblox.com/templates/dev-portfolio/start?utm_source=github&utm_medium=readme)
+<!-- # [Developer Portfolio](https://hugoblox.com/templates/dev-portfolio/start?utm_source=github&utm_medium=readme)
 
 [![Screenshot](.github/preview.png)](https://hugoblox.com/templates/dev-portfolio/start?utm_source=github&utm_medium=readme)
 
@@ -121,4 +121,11 @@ If you want a version that feels meaningfully more premium (and helps fund open 
 
 ---
 
-MIT © 2016–Present [George Cushen](https://neuralgeo.com/?utm_source=github&utm_medium=readme)
+MIT © 2016–Present [George Cushen](https://neuralgeo.com/?utm_source=github&utm_medium=readme) -->
+# Personal Portfolio
+
+Personal Portfolio made using Hugo and the Hugo Blox Kit.
+
+## 🔗 Links
+- **Live Site:** https://www.dhruvsaikia.com
+- **Theme:** [Hugo Blox](https://hugoblox.com)
