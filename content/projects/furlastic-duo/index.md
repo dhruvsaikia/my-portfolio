@@ -12,11 +12,11 @@ image:
 
 links:
   - name: "Code"
-    url: ""
+    url: "https://github.com/dhruvsaikia/FurlasticDuo"
   - name: "Trailer / Gameplay"
-    url: ""
+    url: "youtube.com/watch?v=T_kvnFi9u-8&embeds_referring_euri=https%3A%2F%2Ffurlasticduo.itch.io%2Ffurlastic-duo&source_ve_path=MjM4NTE"
   - name: "Itch.io"
-    url: ""
+    url: "https://furlasticduo.itch.io/furlastic-duo"
 
 external_link: ""
 ---

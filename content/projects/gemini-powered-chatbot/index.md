@@ -12,9 +12,7 @@ image:
 
 links:
   - name: "Code"
-    url: ""
-  - name: "Demo"
-    url: ""
+    url: "https://github.com/dhruvsaikia/chadbot"
 
 external_link: ""
 ---

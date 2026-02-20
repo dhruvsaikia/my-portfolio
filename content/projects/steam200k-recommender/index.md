@@ -12,9 +12,7 @@ image:
 
 links:
   - name: "Code"
-    url: ""
-  - name: "Write-up"
-    url: ""
+    url: "https://github.com/dhruvsaikia/GameStoreRecommender"
 
 external_link: ""
 ---

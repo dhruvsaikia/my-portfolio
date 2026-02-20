@@ -14,9 +14,9 @@ image:
   filename: featured.png
 
 links:
-  - name: "Code"
-    url: ""
-  - name: "Demo"
+  - name: "View the Database"
+    url: "https://www.gdeltproject.org/"
+  - name: "Github link coming soon"
     url: ""
 
 # Optional fields (leave empty for now)

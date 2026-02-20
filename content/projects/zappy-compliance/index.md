@@ -12,9 +12,9 @@ image:
 
 links:
   - name: "Report"
-    url: ""
-  - name: "Summary"
-    url: ""
+    url: "https://drive.google.com/file/d/1mdAfimSiOKLvepbyIw-NQYyIKlGegh1o/view?usp=drive_link"
+  - name: "Poster"
+    url: "https://drive.google.com/file/d/1dwRmasU5aIS0QTOj9JoxRggrgFUNEUdk/view?usp=drive_link"
 
 external_link: ""
 ---
